@@ -1,0 +1,3 @@
+age: 15
+city: Auckland
+interests: chiikawa, insects, baking, cooking
